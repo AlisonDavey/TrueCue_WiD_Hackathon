@@ -1,0 +1,147 @@
+First Column,Second Column,Relationship
+Hospital Beds Year,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)",0.510325550006921
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)",Hospital Beds Year,0.510325550006921
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)",Year,0.5109681310128560
+Year,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)",0.5109681310128560
+Population Aged 65 and above % of Total,Government_Healthcare_Spend,0.5150153749294180
+Government_Healthcare_Spend,Population Aged 65 and above % of Total,0.5150153749294180
+Smoking_Prevalence,Hospital Beds Per 1000 People,0.5217725002292010
+Hospital Beds Per 1000 People,Smoking_Prevalence,0.5217725002292010
+Population Aged 65 and above % of Total,Smoking_Prevalence,0.577186954965745
+Smoking_Prevalence,Population Aged 65 and above % of Total,0.577186954965745
+Corruption,Government_Healthcare_Spend,0.5816312197425120
+Government_Healthcare_Spend,Corruption,0.5816312197425120
+Government_Healthcare_Spend,GDP_PPP,0.5914307108411980
+GDP_PPP,Government_Healthcare_Spend,0.5914307108411980
+GDP_PPP,Political_Stability,0.592648821028353
+Political_Stability,GDP_PPP,0.592648821028353
+Death Rate Per 1000 (2017),Population Aged 65 and above % of Total,0.5931028770101270
+Population Aged 65 and above % of Total,Death Rate Per 1000 (2017),0.5931028770101270
+Rule_of_Law,Government_Healthcare_Spend,0.6032228435900270
+Government_Healthcare_Spend,Rule_of_Law,0.6032228435900270
+New_Deaths,RunTot_New_Cases,0.6056019059002040
+RunTot_New_Cases,New_Deaths,0.6056019059002040
+Total_Cases,New_Deaths,0.6056019381722850
+New_Deaths,Total_Cases,0.6056019381722850
+Population Aged 65 and above % of Total,Corruption,0.6063102749254340
+Corruption,Population Aged 65 and above % of Total,0.6063102749254340
+Political_Stability,Government_Healthcare_Spend,0.6157916118096250
+Government_Healthcare_Spend,Political_Stability,0.6157916118096250
+Government_Effectiveness,Government_Healthcare_Spend,0.619066267690428
+Government_Healthcare_Spend,Government_Effectiveness,0.619066267690428
+New_Deaths,RunTot_New_Deaths,0.6444843202566400
+RunTot_New_Deaths,New_Deaths,0.6444843202566400
+New_Deaths,Total_Deaths,0.6444843262855070
+Total_Deaths,New_Deaths,0.6444843262855070
+Population Aged 65 and above % of Total,Rule_of_Law,0.6459421603270510
+Rule_of_Law,Population Aged 65 and above % of Total,0.6459421603270510
+Population Aged 65 and above % of Total,Government_Effectiveness,0.6679766856480170
+Government_Effectiveness,Population Aged 65 and above % of Total,0.6679766856480170
+RunTot_New_Cases,Weekly_Deaths,0.6702492959426600
+Weekly_Deaths,RunTot_New_Cases,0.6702492959426600
+Total_Cases,Weekly_Deaths,0.6702493286303640
+Weekly_Deaths,Total_Cases,0.6702493286303640
+Corruption,GDP_PPP,0.7009468420502570
+GDP_PPP,Corruption,0.7009468420502570
+Population Aged 65 and above % of Total,Hospital Beds Per 1000 People,0.7131594181363170
+Hospital Beds Per 1000 People,Population Aged 65 and above % of Total,0.7131594181363170
+RunTot_New_Deaths,Weekly_Deaths,0.717556547055507
+Weekly_Deaths,RunTot_New_Deaths,0.717556547055507
+Total_Deaths,Weekly_Deaths,0.7175565527114380
+Weekly_Deaths,Total_Deaths,0.7175565527114380
+New_Deaths,Weekly_Cases,0.7263577307360820
+Weekly_Cases,New_Deaths,0.7263577307360820
+GDP_PPP,Rule_of_Law,0.7271189992247550
+Rule_of_Law,GDP_PPP,0.7271189992247550
+New_Deaths,New_Cases,0.7351093457879060
+New_Cases,New_Deaths,0.7351093457879060
+Government_Effectiveness,GDP_PPP,0.7439726122493600
+GDP_PPP,Government_Effectiveness,0.7439726122493600
+New_Cases,RunTot_New_Deaths,0.7529570749373690
+RunTot_New_Deaths,New_Cases,0.7529570749373690
+New_Cases,Total_Deaths,0.7529570774689720
+Total_Deaths,New_Cases,0.7529570774689720
+Government_Effectiveness,Political_Stability,0.7601088300628380
+Political_Stability,Government_Effectiveness,0.7601088300628380
+Corruption,Political_Stability,0.7675418576432180
+Political_Stability,Corruption,0.7675418576432180
+Weekly_Deaths,New_Cases,0.7719320738419050
+New_Cases,Weekly_Deaths,0.7719320738419050
+Weekly_Cases,RunTot_New_Deaths,0.7727406074756230
+RunTot_New_Deaths,Weekly_Cases,0.7727406074756230
+Total_Deaths,Weekly_Cases,0.7727406089964740
+Weekly_Cases,Total_Deaths,0.7727406089964740
+Rule_of_Law,Political_Stability,0.7737457326921750
+Political_Stability,Rule_of_Law,0.7737457326921750
+Weekly_Cases,Weekly_Deaths,0.7882054947411600
+Weekly_Deaths,Weekly_Cases,0.7882054947411600
+RunTot_New_Cases,New_Cases,0.8471266660521150
+New_Cases,RunTot_New_Cases,0.8471266660521150
+New_Cases,Total_Cases,0.8471266788108290
+Total_Cases,New_Cases,0.8471266788108290
+RunTot_New_Cases,Weekly_Cases,0.8724597997492760
+Weekly_Cases,RunTot_New_Cases,0.8724597997492760
+Total_Cases,Weekly_Cases,0.8724598085404620
+Weekly_Cases,Total_Cases,0.8724598085404620
+RunTot_New_Cases,Total_Deaths,0.909652708927527
+Total_Deaths,RunTot_New_Cases,0.909652708927527
+RunTot_New_Deaths,RunTot_New_Cases,0.9096527107654230
+RunTot_New_Cases,RunTot_New_Deaths,0.9096527107654230
+Total_Deaths,Total_Cases,0.909652727438834
+Total_Cases,Total_Deaths,0.909652727438834
+RunTot_New_Deaths,Total_Cases,0.9096527288362610
+Total_Cases,RunTot_New_Deaths,0.9096527288362610
+Weekly_Deaths,New_Deaths,0.917072028661643
+New_Deaths,Weekly_Deaths,0.917072028661643
+Corruption,Government_Effectiveness,0.9261185150254950
+Government_Effectiveness,Corruption,0.9261185150254950
+Rule_of_Law,Corruption,0.9510979044118870
+Corruption,Rule_of_Law,0.9510979044118870
+Population,Urban Population,0.9541298731435500
+Urban Population,Population,0.9541298731435500
+Rule_of_Law,Government_Effectiveness,0.9545147904733240
+Government_Effectiveness,Rule_of_Law,0.9545147904733240
+Labour Force Total,Population,0.9770822212039430
+Population,Labour Force Total,0.9770822212039430
+Weekly_Cases,New_Cases,0.982295577362195
+New_Cases,Weekly_Cases,0.982295577362195
+Labour Force Total,Urban Population,0.9863402281323430
+Urban Population,Labour Force Total,0.9863402281323430
+Year,Hospital Beds Year,0.9999816187266680
+Hospital Beds Year,Year,0.9999816187266680
+Total_Cases,RunTot_New_Cases,0.999999999157101
+RunTot_New_Cases,Total_Cases,0.999999999157101
+Total_Deaths,RunTot_New_Deaths,0.9999999999382510
+RunTot_New_Deaths,Total_Deaths,0.9999999999382510
+New_Cases,New_Cases,1.0
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)","PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total) (2017)",1.0
+New_Deaths,New_Deaths,1.0
+Total_Cases,Total_Cases,1.0
+Total_Deaths,Total_Deaths,1.0
+Weekly_Cases,Weekly_Cases,1.0
+Weekly_Deaths,Weekly_Deaths,1.0
+Population_Density,Population_Density,1.0
+Fertility_Rate,Fertility_Rate,1.0
+GDP_PPP,GDP_PPP,1.0
+Corruption,Corruption,1.0
+Government_Effectiveness,Government_Effectiveness,1.0
+Political_Stability,Political_Stability,1.0
+Rule_of_Law,Rule_of_Law,1.0
+Government_Healthcare_Spend,Government_Healthcare_Spend,1.0
+Hospital Beds Year,Hospital Beds Year,1.0
+Urban_Population,Urban_Population,1.0
+Tourism,Tourism,1.0
+Women_In_Parliament,Women_In_Parliament,1.0
+Obesity_Rate,Obesity_Rate,1.0
+RunTot_New_Cases,RunTot_New_Cases,1.0
+RunTot_New_Deaths,RunTot_New_Deaths,1.0
+Year,Year,1.0
+Diabetes Prevelance % of Population 20-79,Diabetes Prevelance % of Population 20-79,1.0
+Labour Force Total,Labour Force Total,1.0
+Population,Population,1.0
+Population Aged 65 and above % of Total,Population Aged 65 and above % of Total,1.0
+Urban Population,Urban Population,1.0
+Death Rate Per 1000 (2017),Death Rate Per 1000 (2017),1.0
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter) (2017)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter) (2017)",1.0
+Smoking_Prevalence,Smoking_Prevalence,1.0
+Hospital Beds Per 1000 People,Hospital Beds Per 1000 People,1.0
